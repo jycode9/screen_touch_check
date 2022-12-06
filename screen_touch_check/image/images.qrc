@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/mark">
+        <file>error.png</file>
+    </qresource>
+</RCC>
